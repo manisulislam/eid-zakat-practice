@@ -163,3 +163,39 @@ body {
 .image-three {
     margin: 25px;
 }
+
+.zakat {
+    margin-bottom: 25px;
+}
+
+.zakat-one {
+    margin-right: 30px;
+}
+
+.fifth-container {
+    display: flex;
+}
+
+.fifth-container img {
+    width: 100%;
+}
+
+.rerum {
+    margin-left: 50px;
+
+
+}
+
+.anis-in {
+    padding-left: 15px;
+
+}
+
+.george {
+    margin-bottom: 20px;
+}
+
+.zakat-collect {
+    color: tomato;
+    font-weight: bold;
+}
