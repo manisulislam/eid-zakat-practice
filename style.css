@@ -1,3 +1,105 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/Rectangle\ 1.png);
+
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-bottom: 100px;
+
+}
+
+.row {
+    padding-left: 150px;
+    padding-top: 300px;
+    color: white;
+}
+
+.first-heading {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.paragraph-1 {
+    margin-bottom: 35px;
+    margin-top: 20px;
+}
+
+.link-button-1 {
+    color: white;
+    border: 1px solid tomato;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.second-container {
+    display: flex;
+    width: 100%;
+
+}
+
+
+.half-1 {
+    width: 50%;
+
+}
+
+.half-1 img {
+    width: 80%;
+}
+
+.lives {
+    padding-left: 80px;
+    margin-top: 20px;
+}
+
+.heading {
+    font-size: 25px;
+    font-weight: bold;
+    -ms-text-kashida-space: 15px;
+}
+
+.dolor {
+    margin-bottom: 20px;
+}
+
+.paragraph {
+    font-size: 10px;
+}
+
+.half {
+    width: 50%;
+}
+
+.half img {
+    width: 80%;
+
+}
+
+.pic-two {
+    padding-left: 80px;
+
+}
+
+.paragraph-text {
+    margin-bottom: 35px;
+
+}
+
+.paragraph-anis {
+    margin-bottom: 20px;
+}
