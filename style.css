@@ -178,6 +178,7 @@ body {
 
 .fifth-container img {
     width: 100%;
+
 }
 
 .rerum {
@@ -198,4 +199,25 @@ body {
 .zakat-collect {
     color: tomato;
     font-weight: bold;
+
+}
+
+.adha {
+    font-family: 'Dancing Script', cursive;
+    color: tomato;
+
+}
+
+.finish {
+    margin-bottom: 50px;
+}
+
+.do {
+    color: white;
+}
+
+.end {
+    text-align: center;
+    background-color: black;
+
 }
